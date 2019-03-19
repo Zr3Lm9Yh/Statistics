@@ -8,7 +8,7 @@ We do not walk but run R（233333）
 它是设计，描述，推断 提供方法学的基础
 
 ---tu1---
-
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu1.png)
 
 
 描述和统计结合在一起是两种最基本的统计分析类型
@@ -23,6 +23,7 @@ We do not walk but run R（233333）
 
 ---tu2---
 
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu2.png)
 
 
 
@@ -38,6 +39,12 @@ We do not walk but run R（233333）
 
 
 ---tu3---
+
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu3.png)
+
+
+
+
 接下来我们
 可以考到描述统计学的三个方法
 
@@ -47,6 +54,7 @@ We do not walk but run R（233333）
 
 ---tu4---
 
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu4.png)
 
 
 
@@ -63,13 +71,14 @@ We do not walk but run R（233333）
 
 ---tu5----
 
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu5.png)
 
 
 
 
 
 
-接下来的方法就是绘图法
+接下来的第二个方法就是绘图法
 
 
 
@@ -78,6 +87,7 @@ We do not walk but run R（233333）
 
 ---tu6---
 
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu6.png)
 
 
 
@@ -86,6 +96,7 @@ We do not walk but run R（233333）
 ---tu7---
 
 
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu7.png)
 
 
 
@@ -95,20 +106,27 @@ We do not walk but run R（233333）
 ---tu8---
 
 
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu8.png)
 
 
 
+---tu9---
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu9.png)
 
-定量型变量的绘图方法太丰富
-但主要归纳起来有三点
 
 
 描述统计学的第三个方法
+定值分析
+
+---tu10---
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu10.png)
+
+
 
 
 
 ---tu11---
-
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu11.png)
 
 
 
@@ -116,7 +134,7 @@ We do not walk but run R（233333）
 
 
 ---tu12---
-
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu12.png)
 
 
 
@@ -125,28 +143,20 @@ We do not walk but run R（233333）
 
 
 ---tu13---
-
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu13.png)
 
 
 
 
 ---tu14---
-
-
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu14.png)
 
 
 
 
 
 ---tu15---
-
-
-
-
-
-
-
-
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu15.png)
 
 
 
@@ -169,7 +179,8 @@ R的优势
 
 
 
----tu17---
+---tu16---
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu16.png)
 
 
 
