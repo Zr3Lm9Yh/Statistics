@@ -214,7 +214,7 @@ R语言中的数值分析函数
 开始讲概率分布了，因为变量是不一样的，所以对应每一个变量结果都可以对应一个概率出来
 
 ---tu17---
-
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu17.PNG)
 
 
 
