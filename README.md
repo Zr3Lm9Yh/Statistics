@@ -71,7 +71,7 @@ We do not walk but run R（233333）
 
 ---tu5----
 
-![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu5.png)
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu5.PNG)
 
 
 
@@ -96,7 +96,7 @@ We do not walk but run R（233333）
 ---tu7---
 
 
-![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu7.png)
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu7.PNG)
 
 
 
@@ -106,12 +106,12 @@ We do not walk but run R（233333）
 ---tu8---
 
 
-![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu8.png)
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu8.PNG)
 
 
 
 ---tu9---
-![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu9.png)
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu9.PNG)
 
 
 
@@ -126,7 +126,7 @@ We do not walk but run R（233333）
 
 
 ---tu11---
-![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu11.png)
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu11.PNG)
 
 
 
@@ -134,7 +134,7 @@ We do not walk but run R（233333）
 
 
 ---tu12---
-![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu12.png)
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu12.PNG)
 
 
 
@@ -143,20 +143,20 @@ We do not walk but run R（233333）
 
 
 ---tu13---
-![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu13.png)
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu13.PNG)
 
 
 
 
 ---tu14---
-![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu14.png)
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu14.PNG)
 
 
 
 
 
 ---tu15---
-![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu15.png)
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu15.PNG)
 
 
 
@@ -180,7 +180,7 @@ R的优势
 
 
 ---tu16---
-![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu16.png)
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu16.PNG)
 
 
 
