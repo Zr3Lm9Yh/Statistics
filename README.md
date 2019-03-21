@@ -285,14 +285,14 @@ R语言中的数值分析函数
 
 
 ---tu23---
-
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu23.PNG)
 
 
 于是我们不难得到以下东西
 
 
 ---tu24---
-
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu24.PNG)
 
 
 
@@ -307,7 +307,7 @@ R语言中的数值分析函数
 
 
 ---tu25---
-
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu25.PNG)
 
 以上内容就是我们的概率论部分
 接下来就是我们的统计推断部分，kai BY day2 加油
