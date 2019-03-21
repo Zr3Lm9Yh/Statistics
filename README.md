@@ -156,7 +156,7 @@ We do not walk but run R（233333）
 
 
 ---tu15---
-![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu15.PNG)
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu15.png)
 
 
 
