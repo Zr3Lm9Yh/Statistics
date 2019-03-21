@@ -214,20 +214,23 @@ R语言中的数值分析函数
 开始讲概率分布了，因为变量是不一样的，所以对应每一个变量结果都可以对应一个概率出来
 
 ---tu17---
-![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu17.PNG)
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu17.png)
 
 
 
 
 ---tu18---
-
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu18.PNG)
 
 
 
 
 ---tu19---
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu19.PNG)
 
 
+
+---无20---自己搞错了哎，这个就是那个正太函数分布图
 
 
 通过这个例子之后，我们知道了连续分布是什么，现实中的连续分布有超级超级多，泊松分布，U型分布，啦啦啦
@@ -235,21 +238,22 @@ R语言中的数值分析函数
 
 
 正态分布因为包含了生活中各个形态的测量，比如身高，体重，都是服从它（高斯分布）
-接下来讲到了正态分布的三个特性
+接下来讲到了正态分布的四个特性
 
 
 ---tu20---
-
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu20.PNG)
 
 
 
 ---tu21---
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu21.PNG)
 
 
 
 
 ---tu22---
-
+![ad](https://github.com/Zr3Lm9Yh/Statistics/blob/master/img/tu22.PNG)
 
 
 以后我们说一个不可能的事件就可以将3σ事件了
@@ -267,7 +271,6 @@ R语言中的数值分析函数
 
 
 
----tu20---
 抽样分布的重要性在于，它让我们知道，在某种样本量下，统计量与样本参数间的距离会有多远
 有了抽样分布给我们带来的信息，就是看统计量奇怪不奇怪了
 统计分布绝对是我认为统计学最最核心的概念之一
@@ -281,14 +284,14 @@ R语言中的数值分析函数
 具体内容如
 
 
----tu21---
+---tu23---
 
 
 
 于是我们不难得到以下东西
 
 
----tu22---
+---tu24---
 
 
 
@@ -303,7 +306,7 @@ R语言中的数值分析函数
 代码部分https://github.com/Zr3Lm9Yh/R-Matlab/blob/master/%E4%B8%AD%E5%BF%83%E6%9E%81%E9%99%90%E5%AE%9A%E7%90%86%E7%9A%84%E9%AA%8C%E8%AF%81.R
 
 
----tu23---
+---tu25---
 
 
 以上内容就是我们的概率论部分
